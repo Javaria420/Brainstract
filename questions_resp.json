@@ -1,0 +1,83 @@
+﻿{
+  "questions": [
+    {
+      "allow_custom": true,
+      "id": 1,
+      "options": [
+        "Medical imaging",
+        "Predictive analytics for patient outcomes",
+        "Drug discovery",
+        "Personalized medicine"
+      ],
+      "question": "What specific area of healthcare are you interested in applying machine learning?"
+    },
+    {
+      "allow_custom": true,
+      "id": 2,
+      "options": [
+        "Primary care",
+        "Secondary care",
+        "Tertiary care",
+        "Public health"
+      ],
+      "question": "What level of healthcare system are you focusing on?"
+    },
+    {
+      "allow_custom": true,
+      "id": 3,
+      "options": [
+        "Children",
+        "Elderly",
+        "Chronic disease patients",
+        "General population"
+      ],
+      "question": "Which demographic group are you interested in studying?"
+    },
+    {
+      "allow_custom": true,
+      "id": 4,
+      "options": [
+        "Last 5 years",
+        "Last 10 years",
+        "Historical developments",
+        "Future trends"
+      ],
+      "question": "What time frame are you considering for your research?"
+    },
+    {
+      "allow_custom": true,
+      "id": 5,
+      "options": [
+        "Supervised learning",
+        "Unsupervised learning",
+        "Reinforcement learning",
+        "Deep learning"
+      ],
+      "question": "What type of machine learning methodology are you interested in?"
+    },
+    {
+      "allow_custom": true,
+      "id": 6,
+      "options": [
+        "Clinical decision support",
+        "Remote patient monitoring",
+        "Healthcare operations",
+        "Patient engagement"
+      ],
+      "question": "In what context do you want to apply machine learning in healthcare?"
+    },
+    {
+      "allow_custom": true,
+      "id": 7,
+      "options": [
+        "North America",
+        "Europe",
+        "Asia",
+        "Developing countries"
+      ],
+      "question": "Are there specific geographic regions you want to focus on?"
+    }
+  ],
+  "topic": "machine learning in healthcare"
+}
+

@@ -1,0 +1,10 @@
+﻿{
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTc3OTYwMDk2NSwianRpIjoiNDFhMDU0NjMtMGE3My00NWI5LThmYTgtN2MyZDhiZTQwYjE4IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6IjZhMTI4ZGQwZWJmNzk1ZGRmNDA1NWJkNiIsIm5iZiI6MTc3OTYwMDk2NSwiY3NyZiI6IjQyOTgzZTY1LTk2ZmEtNGMwNS05YjU0LTQ5MWZlNGUzZWQ1NSIsImV4cCI6MTc3OTYwNDU2NX0.FxfVwoM5QcjDOmOw20dnQmKqx01znGjQaTUaGElUzq4",
+  "user": {
+    "_id": "6a128dd0ebf795ddf4055bd6",
+    "email": "test@brainstract.com",
+    "name": "Test User",
+    "role": "user"
+  }
+}
+
